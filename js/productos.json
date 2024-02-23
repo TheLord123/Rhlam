@@ -1,11 +1,11 @@
 [
     {
-        "id": "abrigo-01",
+        "id": "abrigo-010",
         "titulo": "Abrigo 01",
         "imagen": "./img/abrigos/01.jpg",
         "categoria": {
             "nombre": "Abrigos",
-            "id": "abrigos"
+            "id": "abrigos0"
         },
         "precio": 1000
     },
