@@ -1,10 +1,10 @@
 [
     {
         "id": "abrigo-01",
-        "titulo": "Abrigo 01",
+        "titulo": "Bomba Original LG",
         "imagen": "./img/abrigos/01.jpg",
         "categoria": {
-            "nombre": "Bomba Original LG",
+            "nombre": "Abrigos",
             "id": "abrigos"
         },
         "precio": 1000
